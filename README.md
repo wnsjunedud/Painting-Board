@@ -1,7 +1,7 @@
 # Painting-Board
 Simple painting board with JS
 
-#What I used
+## What I used
 - Javascript
 - HTML5
 - Canvas
@@ -9,7 +9,7 @@ Simple painting board with JS
 - Pointer Events
 - CSS
 
-#Features
+## Features
 - Paint
 - Change Brush Size
 - Fill Canvas
@@ -17,5 +17,5 @@ Simple painting board with JS
 - Save Images
 - Mouse Events
 
-#Try it
+## Try it
 - [Painting Board Demo Link](https://wnsjunedud.github.io/Painting-Board/)
